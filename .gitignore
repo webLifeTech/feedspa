@@ -1,0 +1,9 @@
+.nodemonignore
+npm-debug.log
+node_modules/
+package-lock.json
+public/media
+public/profile
+public/thumb
+public/audio
+public/sticker
